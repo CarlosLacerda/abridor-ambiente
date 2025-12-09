@@ -112,7 +112,7 @@ O **Abridor de Ambiente** é uma ferramenta que automatiza completamente a inici
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/abridor-ambiente.git
+git clone https://github.com/CarlosLacerda/abridor-ambiente.git
 
 # Entre na pasta
 cd abridor-ambiente
@@ -123,7 +123,7 @@ python abridor_ambiente.py
 
 ### Método 2: Executável Windows (.exe)
 
-1. Baixe o executável na página de [Releases](https://github.com/seu-usuario/abridor-ambiente/releases)
+1. Baixe o executável na página de [Releases](https://github.com/CarlosLacerda/abridor-ambiente/releases)
 2. Execute `AbrirAmbiente.exe`
 3. Pronto! 🎉
 
@@ -356,9 +356,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Carlos** 
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- GitHub: [@CarlosLacerda](https://github.com/CarlosLacerda)
+- LinkedIn: [Carlos Lacerda](https://www.linkedin.com/in/carlos-lacerda-972652394/)
+- Email: 
 
 ---
 
